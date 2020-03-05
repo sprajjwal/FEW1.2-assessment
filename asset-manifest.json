@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FEW1.2-assessment/static/css/main.832e7bbb.chunk.css",
+    "main.js": "/FEW1.2-assessment/static/js/main.597c9273.chunk.js",
+    "main.js.map": "/FEW1.2-assessment/static/js/main.597c9273.chunk.js.map",
+    "runtime-main.js": "/FEW1.2-assessment/static/js/runtime-main.0ffa000a.js",
+    "runtime-main.js.map": "/FEW1.2-assessment/static/js/runtime-main.0ffa000a.js.map",
+    "static/js/2.b89f45a5.chunk.js": "/FEW1.2-assessment/static/js/2.b89f45a5.chunk.js",
+    "static/js/2.b89f45a5.chunk.js.map": "/FEW1.2-assessment/static/js/2.b89f45a5.chunk.js.map",
+    "index.html": "/FEW1.2-assessment/index.html",
+    "precache-manifest.adb190cc0b1d442a55f985720e01bbf7.js": "/FEW1.2-assessment/precache-manifest.adb190cc0b1d442a55f985720e01bbf7.js",
+    "service-worker.js": "/FEW1.2-assessment/service-worker.js",
+    "static/css/main.832e7bbb.chunk.css.map": "/FEW1.2-assessment/static/css/main.832e7bbb.chunk.css.map",
+    "static/js/2.b89f45a5.chunk.js.LICENSE.txt": "/FEW1.2-assessment/static/js/2.b89f45a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ffa000a.js",
+    "static/js/2.b89f45a5.chunk.js",
+    "static/css/main.832e7bbb.chunk.css",
+    "static/js/main.597c9273.chunk.js"
+  ]
+}
